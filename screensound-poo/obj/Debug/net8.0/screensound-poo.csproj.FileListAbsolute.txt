@@ -1,0 +1,14 @@
+C:\Users\gusta\source\repos\learning-csharp\screensound-poo\bin\Debug\net8.0\screensound-poo.exe
+C:\Users\gusta\source\repos\learning-csharp\screensound-poo\bin\Debug\net8.0\screensound-poo.deps.json
+C:\Users\gusta\source\repos\learning-csharp\screensound-poo\bin\Debug\net8.0\screensound-poo.runtimeconfig.json
+C:\Users\gusta\source\repos\learning-csharp\screensound-poo\bin\Debug\net8.0\screensound-poo.dll
+C:\Users\gusta\source\repos\learning-csharp\screensound-poo\bin\Debug\net8.0\screensound-poo.pdb
+C:\Users\gusta\source\repos\learning-csharp\screensound-poo\obj\Debug\net8.0\screensound-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\learning-csharp\screensound-poo\obj\Debug\net8.0\screensound-poo.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\learning-csharp\screensound-poo\obj\Debug\net8.0\screensound-poo.AssemblyInfo.cs
+C:\Users\gusta\source\repos\learning-csharp\screensound-poo\obj\Debug\net8.0\screensound-poo.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\learning-csharp\screensound-poo\obj\Debug\net8.0\screensound-poo.dll
+C:\Users\gusta\source\repos\learning-csharp\screensound-poo\obj\Debug\net8.0\refint\screensound-poo.dll
+C:\Users\gusta\source\repos\learning-csharp\screensound-poo\obj\Debug\net8.0\screensound-poo.pdb
+C:\Users\gusta\source\repos\learning-csharp\screensound-poo\obj\Debug\net8.0\screensound-poo.genruntimeconfig.cache
+C:\Users\gusta\source\repos\learning-csharp\screensound-poo\obj\Debug\net8.0\ref\screensound-poo.dll
