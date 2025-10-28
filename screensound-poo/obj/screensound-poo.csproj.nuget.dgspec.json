@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\source\\repos\\learning-csharp\\screensound-poo\\screensound-poo.csproj": {}
+    "C:\\Users\\gusta\\Downloads\\learning-csharp\\screensound-poo\\screensound-poo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\source\\repos\\learning-csharp\\screensound-poo\\screensound-poo.csproj": {
+    "C:\\Users\\gusta\\Downloads\\learning-csharp\\screensound-poo\\screensound-poo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\source\\repos\\learning-csharp\\screensound-poo\\screensound-poo.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\Downloads\\learning-csharp\\screensound-poo\\screensound-poo.csproj",
         "projectName": "screensound-poo",
-        "projectPath": "C:\\Users\\gusta\\source\\repos\\learning-csharp\\screensound-poo\\screensound-poo.csproj",
+        "projectPath": "C:\\Users\\gusta\\Downloads\\learning-csharp\\screensound-poo\\screensound-poo.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\source\\repos\\learning-csharp\\screensound-poo\\obj\\",
+        "outputPath": "C:\\Users\\gusta\\Downloads\\learning-csharp\\screensound-poo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
