@@ -1,18 +1,17 @@
-﻿Musica musica1 = new Musica();
-musica1.Nome = "Roxane";
-musica1.Artista = "The Police";
-musica1.Duracao = 273;
-musica1.Disponivel = true;
-Console.WriteLine(musica1.DescricaoResumida);
+﻿Album album = new Album();
+album.Nome = "Nome do Álbum";
+
+Musica musica1 = new Musica();
+musica1.Nome = "Música 1";
+musica1.Duracao = 360;
+musica1.Artista = "Artista";
 
 Musica musica2 = new Musica();
-musica2.Nome = "Vertigo";
-musica2.Artista = "U2";
-musica2.Duracao = 367;
-musica2.Disponivel = false;
-Console.WriteLine(musica2.Disponivel);
+musica2.Nome = "Música 2";
+musica2.Duracao = 394;
+musica2.Artista = "Artista";
 
-musica1.ExibirFichaTecnica();
-musica2.ExibirFichaTecnica();
+album.AdicionarMusica(musica1);
+album.AdicionarMusica(musica2);
 
-//musica1.ExibirNomeEArtista();
+album.ExibirAlbum();
